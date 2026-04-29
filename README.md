@@ -1,14 +1,53 @@
-# Business Insights
+# E-commerce Sales Analysis using SQL
 
-## Key Findings
+## Project Overview
+This project analyses e-commerce customer behaviour data using SQL to extract meaningful business insights.
 
-- Identified top customers contributing most revenue
-- Certain product categories drive higher order volume
-- Purchase behaviour varies across gender and age groups
-- Repeat customers show higher lifetime value
+The goal is to understand customer spending patterns, product performance, and payment preferences to support data-driven decision-making.
 
-## Recommendations
+---
 
-- Focus marketing on high-value customer segments
-- Promote best-performing product categories
-- Target repeat customers with loyalty programs
+## Tools Used
+- SQL (SQLite)
+- DB Browser for SQLite
+
+---
+
+## Dataset
+The dataset includes:
+- Customer ID
+- Product Category
+- Payment Method
+- Purchase Amount
+- Transaction details
+
+---
+
+## Key Analysis Performed
+
+- Total customers and revenue
+- Top 5 customers by spending
+- Most popular product categories
+- Revenue by payment method
+
+---
+
+## Business Insights
+
+- High-value customers contribute significantly to revenue
+- Sports is the most popular product category
+- Credit Card is the most used payment method
+
+---
+
+## Key Recommendations
+
+- Focus on customer retention strategies
+- Expand high-performing product categories
+- Optimise payment experience
+
+---
+
+## Conclusion
+
+This project demonstrates how SQL can be used to analyse business data and generate actionable insights.
